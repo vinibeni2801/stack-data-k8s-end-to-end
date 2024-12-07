@@ -1,11 +1,4 @@
-# Dados no Kubernetes [DoK]
-### ws-stack-dados-k8s
-
-![Conteúdo Programático](docs/roadmap-kates-data.png)
-
-
-Nesse workshop vamos aprender a criar um ambiente de dados no kubernetes utilizando os mais famosos
-produtos open-source do mercado de dados.
+# Dados no Kubernetes 
 
 Esse projeto está estruturado em 3 partes:
 - [infra](#infra)
