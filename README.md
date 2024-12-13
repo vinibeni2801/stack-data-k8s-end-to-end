@@ -54,4 +54,3 @@ Para a construção do ambiente de dados, siga os passos:
 - [Helm](https://helm.sh/)
 - [Kustomize](https://kustomize.io/)
 - [Astronomer Cosmos](https://astronomer.github.io/astronomer-cosmos/index.html)
-- 
